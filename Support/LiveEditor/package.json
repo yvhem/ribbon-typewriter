@@ -1,0 +1,1 @@
+{"name":"ribbon-live-editor","version":"1.0.0","private":true,"type":"module","dependencies":{"@codemirror/commands":"6.11.1","@codemirror/search":"6.7.2","@codemirror/state":"6.7.6","@codemirror/view":"6.43.15","@lezer/markdown":"1.8.1"},"devDependencies":{"esbuild":"0.28.2"}}

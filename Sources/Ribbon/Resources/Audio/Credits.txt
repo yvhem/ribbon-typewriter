@@ -1,0 +1,47 @@
+Ribbon typing sounds
+
+Soft and Classic use edited excerpts of the following CC0 1.0 recordings:
+- _stubb, “Typewriter keys_slow_near_mono.wav” (keys and the short taps used for Backspace)
+  https://freesound.org/people/_stubb/sounds/406241/
+- ikomlino, “Olimpia Typewriter typing1 spaces” (Space)
+  https://freesound.org/people/ikomlino/sounds/852747/
+- knufds, “Typewriter bell & carriage reset” (Return)
+  https://freesound.org/people/knufds/sounds/345955/
+
+CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
+
+Original uses Ribbon's synthesized audio. Its generator is in Support/generate-sounds.py.
+
+The machine-specific presets each draw from recordings of the named typewriter.
+Clips are cut, faded at the edges, and level-matched, preserving their original
+pitch. Where an action was unlabeled, its clip is a nearby tap or mechanism
+sound from that same machine. Olympia has a separately recorded Space key.
+
+Olympia — ikomlino, vintage Olimpia recordings (CC0 1.0)
+  https://freesound.org/people/ikomlino/packs/45600/
+  Typing: 852748; Space: 852747; clicks: 852744; mechanism: 852750.
+
+Hermes Baby — evsecrets, “Typing on a typewriter with ding at end of each line.wav” (CC0 1.0)
+  https://freesound.org/people/evsecrets/sounds/334458/
+
+Olivetti — facemusic, “oldfashioned typewriter.aif” (CC0 1.0)
+  https://freesound.org/people/facemusic/sounds/39223/
+
+Smith-Corona Corsair — megashroom, “Typewriter 170428_1482.wav” (CC0 1.0)
+  https://freesound.org/people/megashroom/sounds/390343/
+
+IBM Selectric II — secretmojo, “Typewriter, IBM Selectric II” (CC0 1.0)
+  https://freesound.org/people/secretmojo/sounds/224012/
+
+The mechanical keyboard presets use trimmed, level-matched keystrokes.
+Special keys use similar taps from the same recording where the source
+does not identify individual keys.
+
+Rainy 75 (Creamy) — Techrul, “Typing on a rainy 75” (CC0 1.0)
+  https://freesound.org/people/Techrul/sounds/815614/
+
+Cherry MX Blue — jameslovescode, “Typing (Cherry MX Blue Switches)” (CC0 1.0)
+  https://freesound.org/people/jameslovescode/sounds/400699/
+
+Cherry MX Red — handygaber, “Keyboard clicking typing Cherry Red Mechanical” (CC0 1.0)
+  https://freesound.org/people/handygaber/sounds/499773/
